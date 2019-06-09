@@ -17,3 +17,7 @@ https://kr.fifaaddict.com/api2?q=fo4info&form=init&locale=kr
 https://kr.fifaaddict.com/api2?fo4pid=[선수 fo4pid]&locale=kr
 ```
 
+- 선수 이미지 
+```
+https://s1.fifaaddict.com/fo4/players/[선수 uid].png
+```
