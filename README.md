@@ -12,7 +12,7 @@ https://kr.fifaaddict.com/api2?q=fo4db&class=[class이름]&locale=kr
 https://kr.fifaaddict.com/api2?q=fo4info&form=init&locale=kr
 ```
 
--선수 상세검색 
+- 선수 상세검색 
 ```
 https://kr.fifaaddict.com/api2?fo4pid=[선수 fo4pid]&locale=kr
 ```
